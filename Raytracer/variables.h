@@ -7,6 +7,7 @@
 
 #include "math.h"
 #include "FreeImage.h"
+#include "geometry.h"
 
 #ifdef MAINPROGRAM 
 vec3 eyeinit(0.0, 0.0, 5.0); // Initial eye position, also for resets
